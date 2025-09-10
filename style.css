@@ -6,11 +6,23 @@
                                                                     
 }
 body{
+    border: 2px solid red;
 
 
-    display: flex;
-    background-color: red;
+   text-align: center;
+    background-color:lightgray;
     justify-content: center;
     align-items: center;
     height: 100vh;
+  
+}
+h1{
+    display: inline-block;
+
+    border:2px solid black;
+    
+}
+p{
+
+
 }
